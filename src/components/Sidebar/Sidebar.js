@@ -51,9 +51,6 @@ const Treemenu = () => (
   </Tree>
 )
 
-
-
-
 export default function Sidebar({ routes, logo, dropdown, input }) {
   const classes = useStyles();
   const location = useLocation();
