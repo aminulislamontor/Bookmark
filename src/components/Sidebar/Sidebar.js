@@ -43,11 +43,9 @@ const typeStyles = {
 
 const Treemenu = () => (
   <Tree content="DashBoard" canHide open style={treeStyles}>
-    <Tree content="App Menu" id="myLink" href="" onclick="" canHide>
+    <Tree content="App Menu" id="myLink" href="" onclick="" canHide onClick={console. log("Test")}>
       <Tree content="Sub Menu">
-        <Tree content="Link 1"  style={{ color: '#63b1de' }} />
-        <Tree content="Link 2" style={{ color: '#63b1de' }} />
-        <Tree content="Link 3" style={{ color: '#63b1de' }} />
+        <Tree content="Links"  style={{ color: '#63b1de' }} />
       </Tree>
     </Tree>
   </Tree>
