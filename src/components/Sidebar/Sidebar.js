@@ -68,13 +68,14 @@ export default function Sidebar({ routes, logo, dropdown, input }) {
   }
 
     const Treemenu = () => (
-      <Tree content="DashBoard" canHide open style={treeStyles}>
-        <Tree content="App Menu" canHide >
-         <button type="button" onClick={rediapp}>AppMenu</button>
+      <Tree content="DashBoard" open style={treeStyles}>
+        <Tree content="App Menu" >
+         <button type="button" onClick={rediapp}>Go to AppMenu</button>
           <Tree content="Sub Menu">
-           <button type="button" onClick={redisub}>Sub Menu</button>
-            <Tree content="Links" />
-             <button type="button" onClick={redilink}>Link Menu</button>
+           <button type="button" onClick={redisub}>Go to Sub Menu</button>
+            <Tree content="Links">
+             <button type="button" onClick={redilink}>Go to Link Menu</button>
+          </Tree>
           </Tree>
         </Tree>
       </Tree>
