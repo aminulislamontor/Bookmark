@@ -22,12 +22,6 @@ import SubMenu from "./views/admin/SubMenu";
 import Links from "./views/admin/Links";
 
 var routes = [
-    //{
-    //  href: "#pablo",
-    //  name: "Upgrade to pro",
-    //  icon: FlashOn,
-    //  upgradeToPro: true,
-    //},
 
     {
         path: "/index",

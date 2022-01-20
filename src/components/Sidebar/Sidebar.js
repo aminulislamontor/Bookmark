@@ -1,6 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
-import { useLocation, Link } from "react-router-dom";
+import { useLocation, Link, useHistory } from "react-router-dom";
 // @material-ui/core components
 import { makeStyles } from "@material-ui/core/styles";
 import AppBar from "@material-ui/core/AppBar";
@@ -41,19 +41,10 @@ const typeStyles = {
   verticalAlign: 'middle'
 }
 
-const Treemenu = () => (
-  <Tree content="DashBoard" canHide open style={treeStyles}>
-    <Tree content="App Menu" id="myLink" href="" onclick="" canHide onClick={console. log("Test")}>
-      <Tree content="Sub Menu">
-        <Tree content="Links"  style={{ color: '#63b1de' }} />
-      </Tree>
-    </Tree>
-  </Tree>
-)
-
 export default function Sidebar({ routes, logo, dropdown, input }) {
   const classes = useStyles();
   const location = useLocation();
+  const history = useHistory();
   const [anchorEl, setAnchorEl] = React.useState(null);
 
   const isMenuOpen = Boolean(anchorEl);
@@ -65,6 +56,29 @@ export default function Sidebar({ routes, logo, dropdown, input }) {
   const handleMenuClose = () => {
     setAnchorEl(null);
   };
+
+  function rediapp(){
+    history.push("./appMenu")
+  }
+  function redisub(){
+    history.push("./subMenu")
+  }
+  function redilink(){
+    history.push("./links")
+  }
+
+    const Treemenu = () => (
+      <Tree content="DashBoard" canHide open style={treeStyles}>
+        <Tree content="App Menu" canHide >
+         <button type="button" onClick={rediapp}>AppMenu</button>
+          <Tree content="Sub Menu">
+           <button type="button" onClick={redisub}>Sub Menu</button>
+            <Tree content="Links"  style={{ color: '#63b1de' }} />
+             <button type="button" onClick={redilink}>Link Menu</button>
+          </Tree>
+        </Tree>
+      </Tree>
+    )
   
 
   const menuId = "responsive-menu-id";
