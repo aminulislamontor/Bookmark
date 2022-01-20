@@ -74,7 +74,7 @@ export default function Sidebar({ routes, logo, dropdown, input }) {
           <Tree content="Sub Menu">
            <button type="button" onClick={redisub}>Go to Sub Menu</button>
             <Tree content="Links">
-             <button type="button" onClick={redilink}>Go to Link Menu</button>
+             <button type="button" onClick={redilink}>Go to Links</button>
           </Tree>
           </Tree>
         </Tree>
