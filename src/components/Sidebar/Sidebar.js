@@ -73,7 +73,7 @@ export default function Sidebar({ routes, logo, dropdown, input }) {
          <button type="button" onClick={rediapp}>AppMenu</button>
           <Tree content="Sub Menu">
            <button type="button" onClick={redisub}>Sub Menu</button>
-            <Tree content="Links"  style={{ color: '#63b1de' }} />
+            <Tree content="Links" />
              <button type="button" onClick={redilink}>Link Menu</button>
           </Tree>
         </Tree>
