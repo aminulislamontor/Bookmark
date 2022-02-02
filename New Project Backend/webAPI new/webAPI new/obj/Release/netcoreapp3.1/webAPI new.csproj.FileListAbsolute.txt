@@ -1,0 +1,30 @@
+D:\Jemmy bhabis Project\New Project Prectice\coreAPI\WebAPI New\webAPI new\bin\Release\netcoreapp3.1\appsettings.Development.json
+D:\Jemmy bhabis Project\New Project Prectice\coreAPI\WebAPI New\webAPI new\bin\Release\netcoreapp3.1\appsettings.json
+D:\Jemmy bhabis Project\New Project Prectice\coreAPI\WebAPI New\webAPI new\bin\Release\netcoreapp3.1\webAPI new.exe
+D:\Jemmy bhabis Project\New Project Prectice\coreAPI\WebAPI New\webAPI new\bin\Release\netcoreapp3.1\webAPI new.deps.json
+D:\Jemmy bhabis Project\New Project Prectice\coreAPI\WebAPI New\webAPI new\bin\Release\netcoreapp3.1\webAPI new.runtimeconfig.json
+D:\Jemmy bhabis Project\New Project Prectice\coreAPI\WebAPI New\webAPI new\bin\Release\netcoreapp3.1\webAPI new.runtimeconfig.dev.json
+D:\Jemmy bhabis Project\New Project Prectice\coreAPI\WebAPI New\webAPI new\bin\Release\netcoreapp3.1\webAPI new.dll
+D:\Jemmy bhabis Project\New Project Prectice\coreAPI\WebAPI New\webAPI new\bin\Release\netcoreapp3.1\webAPI new.pdb
+D:\Jemmy bhabis Project\New Project Prectice\coreAPI\WebAPI New\webAPI new\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Jemmy bhabis Project\New Project Prectice\coreAPI\WebAPI New\webAPI new\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Jemmy bhabis Project\New Project Prectice\coreAPI\WebAPI New\webAPI new\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Jemmy bhabis Project\New Project Prectice\coreAPI\WebAPI New\webAPI new\bin\Release\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Jemmy bhabis Project\New Project Prectice\coreAPI\WebAPI New\webAPI new\bin\Release\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Jemmy bhabis Project\New Project Prectice\coreAPI\WebAPI New\webAPI new\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Jemmy bhabis Project\New Project Prectice\coreAPI\WebAPI New\webAPI new\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Jemmy bhabis Project\New Project Prectice\coreAPI\WebAPI New\webAPI new\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Jemmy bhabis Project\New Project Prectice\coreAPI\WebAPI New\webAPI new\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Jemmy bhabis Project\New Project Prectice\coreAPI\WebAPI New\webAPI new\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Jemmy bhabis Project\New Project Prectice\coreAPI\WebAPI New\webAPI new\obj\Release\netcoreapp3.1\webAPI new.csproj.AssemblyReference.cache
+D:\Jemmy bhabis Project\New Project Prectice\coreAPI\WebAPI New\webAPI new\obj\Release\netcoreapp3.1\webAPI new.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jemmy bhabis Project\New Project Prectice\coreAPI\WebAPI New\webAPI new\obj\Release\netcoreapp3.1\webAPI new.AssemblyInfoInputs.cache
+D:\Jemmy bhabis Project\New Project Prectice\coreAPI\WebAPI New\webAPI new\obj\Release\netcoreapp3.1\webAPI new.AssemblyInfo.cs
+D:\Jemmy bhabis Project\New Project Prectice\coreAPI\WebAPI New\webAPI new\obj\Release\netcoreapp3.1\webAPI new.csproj.CoreCompileInputs.cache
+D:\Jemmy bhabis Project\New Project Prectice\coreAPI\WebAPI New\webAPI new\obj\Release\netcoreapp3.1\webAPI new.MvcApplicationPartsAssemblyInfo.cache
+D:\Jemmy bhabis Project\New Project Prectice\coreAPI\WebAPI New\webAPI new\obj\Release\netcoreapp3.1\staticwebassets\webAPI new.StaticWebAssets.Manifest.cache
+D:\Jemmy bhabis Project\New Project Prectice\coreAPI\WebAPI New\webAPI new\obj\Release\netcoreapp3.1\webAPI new.RazorTargetAssemblyInfo.cache
+D:\Jemmy bhabis Project\New Project Prectice\coreAPI\WebAPI New\webAPI new\obj\Release\netcoreapp3.1\webAPI new.csproj.CopyComplete
+D:\Jemmy bhabis Project\New Project Prectice\coreAPI\WebAPI New\webAPI new\obj\Release\netcoreapp3.1\webAPI new.dll
+D:\Jemmy bhabis Project\New Project Prectice\coreAPI\WebAPI New\webAPI new\obj\Release\netcoreapp3.1\webAPI new.pdb
+D:\Jemmy bhabis Project\New Project Prectice\coreAPI\WebAPI New\webAPI new\obj\Release\netcoreapp3.1\webAPI new.genruntimeconfig.cache
